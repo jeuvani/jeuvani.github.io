@@ -92,6 +92,16 @@ strong { font-weight: bold; }
     background: #f8f8f8;
 }
 
+
+.header ul.nav li.schedule a {
+    margin-top:0;
+    padding-top: 60px;
+    background: #ffe988;
+//    background: #f8f8f8;
+}
+
+
+
 .header ul.nav li a:hover {
     background: #6059ad;
     color: #fff;
@@ -265,7 +275,7 @@ strong { font-weight: bold; }
 }
 
 .portfolio-title h3 {
-    width: 250px;
+    width: 200px;
     margin: 0 auto;
     background: #fff;
     font-family: 'Allura', cursive;
