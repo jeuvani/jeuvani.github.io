@@ -36,6 +36,9 @@ a:hover { color: #888; text-decoration: none; }
 
 strong { font-weight: bold; }
 
+p { font-size:15px;	}
+
+
 
 /* ----- Header ----- */
 
@@ -282,6 +285,15 @@ strong { font-weight: bold; }
     font-weight:normal;
     font-size: 36px;
     color: #5d5d5d;
+}
+
+.portfolio-title h2 {
+    width: 200px;
+    margin: 0 auto;
+    background: #fff;
+    font-family: 'Allura', cursive;
+    font-weight:normal;
+    font-size: 36px;
 }
 
 
@@ -628,7 +640,7 @@ footer .social a:hover { background-position: left top; }
 .about-us-text p {
     padding: 0 20px;
     line-height: 28px;
-    font-size: 13px;
+    font-size: 15px;
 }
 
 /* ----- Meet our team ----- */
@@ -738,7 +750,7 @@ footer .social a:hover { background-position: left top; }
 .contact-us p {
     padding: 0 20px;
     line-height: 28px;
-    font-size: 13px;
+    font-size: 15px;
 }
 
 .contact-form {
@@ -867,7 +879,7 @@ footer .social a:hover { background-position: left top; }
 .services-full-width-text p {
     padding: 0 20px;
     line-height: 28px;
-    font-size: 13px;
+    font-size: 15px;
 }
 
 /* ----- Services half width text ----- */
@@ -894,7 +906,7 @@ footer .social a:hover { background-position: left top; }
 .services-half-width-text p {
     padding: 0 20px;
     line-height: 28px;
-    font-size: 13px;
+    font-size: 15px;
 }
 
 /* ----- Call to action ----- */
