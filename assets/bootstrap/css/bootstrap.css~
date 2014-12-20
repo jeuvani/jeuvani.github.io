@@ -4321,7 +4321,7 @@ a.thumbnail:hover {
 //  margin-bottom: 20px;
 }
 .accordion-group {
-//  margin-bottom: 2px;
+  margin-bottom: 2px;
   border: 1px solid #e5e5e5;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -4757,7 +4757,7 @@ button.close {
     position: static;
   }
 }
-@media (min-width: 768px) and (max-width: 979px) {
+@media (min-width: 970px) and (max-width: 979px) {
   .row {
     margin-left: -20px;
     *zoom: 1;
