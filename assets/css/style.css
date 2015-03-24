@@ -1182,8 +1182,9 @@ ul.portfolio-img li {
     font-family: 'Open Sans', Helvetica, Arial, sans-serif;
     color: #888;
     font-size: 12px;
-	width: 30%;
-	float:left;
+	padding:10px;
+	max-width: 160px;
+	display:inline-block;
 	white-space:normal;
 	vertical-align:top;
 }
