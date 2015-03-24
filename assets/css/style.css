@@ -1177,3 +1177,13 @@ ul.portfolio-img li {
 
 }
 
+.laser {
+    text-align: left;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    color: #888;
+    font-size: 12px;
+	width: 30%;
+	float:left;
+	white-space:normal;
+	vertical-align:top;
+}
