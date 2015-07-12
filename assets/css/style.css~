@@ -81,8 +81,7 @@ p { font-size:15px; }
 /* Change the margin on this element to move down the links */
 .header ul.nav li a {
     margin: 0 1px;
-    padding: 0 10px 10px 10px;
-    margin-top: 80px;
+    padding: 80px 10px 10px 10px;
     color: #5d5d5d;
     text-shadow: none;
     background: #eee;
@@ -101,9 +100,12 @@ p { font-size:15px; }
     margin-top:0;
     padding-top: 60px;
     background: #ffe988;
-//    background: #f8f8f8;
 }
 
+.header ul.nav li.treatment a {
+    margin-top:0;
+    padding-top: 60px;
+}
 
 
 .header ul.nav li a:hover {
@@ -1061,6 +1063,10 @@ ul.portfolio-img li {
         padding-top: 15px;
     }
 
+    .header ul.nav li.schedule a {
+        padding-top: 15px;
+    }
+
     .header ul.nav li a i, .header ul.nav li a br {
         display: none;
     }
@@ -1113,6 +1119,10 @@ ul.portfolio-img li {
     }
 
     .header ul.nav li.current-page a {
+        padding-top: 15px;
+    }
+
+    .header ul.nav li.schedule a {
         padding-top: 15px;
     }
 
@@ -1178,3 +1188,16 @@ ul.portfolio-img li {
 
 }
 
+.laser {
+    text-align: left;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    color: #888;
+    font-size: 12px;
+	padding:10px;
+	max-width: 160px;
+	display:inline-block;
+	white-space:normal;
+	vertical-align:top;
+}
+
+.pearls li {padding-top:10px;font-size:1.2em}
